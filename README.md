@@ -3,7 +3,7 @@ Simple blog system
 
 ## Features
 1) Adding Text
-2) Post Update
+2) Update Text
 3) Text Deletion
 4) User Login and register
 5) Bootstrap Design
